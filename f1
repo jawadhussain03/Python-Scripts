@@ -1,3 +1,6 @@
 first git file
+<<<<<<< HEAD
 advance git commands
 advanced git commands
+=======
+>>>>>>> parent of 43b5f8f... test1
